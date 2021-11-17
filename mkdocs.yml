@@ -1,11 +1,11 @@
 # Project information
 site_name: Workshop Setup
-site_url: https://remkohdev.github.io/workshop-setup
-site_author: IBM Developer
+site_url: https://ibm.github.io/sast-using-sonarqube-in-tekton
+site_author: Jeremy Alcanzare
 
 # Repository
-repo_name: workshop-setup
-repo_url: https://github.com/remkohdev/workshop-setup
+repo_name: sast-using-sonarqube-in-tekton
+repo_url: https://github.com/IBM/sast-using-sonarqube-in-tekton
 edit_uri: edit/master/docs
 
 # Navigation
